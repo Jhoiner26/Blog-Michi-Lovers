@@ -1,0 +1,16 @@
+/* Colores de prueba para pagina*/
+
+:root {
+  --color-primario: #f54927;
+  --color-secundario: #fcebe7;
+  --color-texto: #440e03;
+}
+
+body {
+  background-color: var(--color-secundario);
+  color: var(--color-texto);
+}
+
+h1 {
+  color: var(--color-primario);
+}
